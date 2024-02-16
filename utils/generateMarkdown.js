@@ -35,5 +35,5 @@ You can find more of my work at [${data.username}](https://www.github.com/${data
 
 `;
 }
-
+//Export the module to index.js
 module.exports = generateMarkdown;
