@@ -2,7 +2,7 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
   
 ## Description
-This Readme file is created using nodejs and inquirer module.this will ask the user to input the details of the readme and then will create a readme file,with the details provided by the user.
+This Readme file is created using nodejs and inquirer module.This will ask the user to input the details of the readme and then will create a readme file,with the details provided by the user.
 
 ## Demo video
 Due to the size of video you need to click the video and click view row to download.
