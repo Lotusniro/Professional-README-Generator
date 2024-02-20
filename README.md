@@ -18,7 +18,7 @@ Due to the size of video you need to click the video and click view row to downl
 - [Questions](#questions)
 
 ## Installation
-First clone the Project.Then initialise with npm.Then install the inquirer module.
+First clone the Project.Then npm install.
 
 ## Usage
 To use this Project you need to run this following command in terminal node index.js.
